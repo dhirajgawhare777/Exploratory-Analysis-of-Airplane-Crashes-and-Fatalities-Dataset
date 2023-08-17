@@ -1,0 +1,17 @@
+************Exploratory Analysis of Airplane Crashes and Fatalities Dataset*************
+
+
+EDA Kernel README
+This repository contains an EDA (Exploratory Data Analysis) Kernel that serves as a starting point for analyzing datasets. The kernel is designed to help you visualize data distribution, correlation, and scatter plots.
+
+Getting Started:
+
+Clone this repository.
+Install required dependencies using pip install -r requirements.txt.
+Customize main.py to load your dataset and make necessary adjustments.
+Run the script with python main.py.
+Contributors:
+
+Kaggle Bot
+License:
+This project is licensed under the MIT License. See LICENSE for details.
